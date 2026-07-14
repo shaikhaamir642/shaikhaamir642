@@ -1,146 +1,128 @@
-<h1 align="center">Hi 👋, I'm Shaikh Aamir</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+Developer;AI+Enthusiast;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" />
-</p>
+# 👋 Hi, I'm Shaikh Aamir
 
-<p align="center">
-  <a href="https://github.com/shaikhaamir642">
-    <img src="https://komarev.com/ghpvc/?username=shaikhaamir642&label=Profile%20Views&color=0e75b6&style=flat" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Java+Developer;AI+Enthusiast;Building+Scalable+Applications;Always+Learning+New+Technologies"/>
+
+### 💻 Full Stack Developer | Java | AI | Open Source
+
+</div>
 
 ---
 
-# 💫 About Me
+# 🚀 About Me
 
-🎓 B.Tech in Computer Science Engineering (2022–2026)
+<img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-💻 Passionate Full-Stack Developer specializing in modern web applications and AI-powered solutions.
-
-🚀 Interested in
-- Full Stack Development
-- Backend Engineering
-- Artificial Intelligence
-- System Design
-- Scalable Web Applications
-
-🌱 Currently Learning
-- Next.js
-- System Design
-- AI Integrations
-- Cloud Deployment
+- 🎓 B.Tech in Computer Science Engineering (2022–2026)
+- 💼 Passionate about Full Stack Development & AI
+- 🌱 Learning System Design, Next.js and Cloud
+- ⚡ Strong in Java, MERN Stack & REST APIs
+- 🎯 Goal: Become a Software Engineer at a top product company
+- 💡 Love building real-world scalable applications
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
-### Languages
-
-![Java](https://skillicons.dev/icons?i=java)
-![JavaScript](https://skillicons.dev/icons?i=javascript)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-
-### Frontend
-
-![React](https://skillicons.dev/icons?i=react)
-![Redux](https://skillicons.dev/icons?i=redux)
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
-
-### Backend
-
-![NodeJS](https://skillicons.dev/icons?i=nodejs)
-![Express](https://skillicons.dev/icons?i=express)
-
-### Database
-
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-
-### Tools
-
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![VSCode](https://skillicons.dev/icons?i=vscode)
-
+| Languages | Frontend | Backend | Database | Tools |
+|-----------|----------|---------|----------|-------|
+| <img src="https://skillicons.dev/icons?i=java" width="45"><br>Java | <img src="https://skillicons.dev/icons?i=react" width="45"><br>React.js | <img src="https://skillicons.dev/icons?i=nodejs" width="45"><br>Node.js | <img src="https://skillicons.dev/icons?i=mongodb" width="45"><br>MongoDB | <img src="https://skillicons.dev/icons?i=git" width="45"><br>Git |
+| <img src="https://skillicons.dev/icons?i=javascript" width="45"><br>JavaScript | <img src="https://skillicons.dev/icons?i=redux" width="45"><br>Redux | <img src="https://skillicons.dev/icons?i=express" width="45"><br>Express.js | | <img src="https://skillicons.dev/icons?i=github" width="45"><br>GitHub |
+| <img src="https://skillicons.dev/icons?i=html" width="45"><br>HTML5 | <img src="https://skillicons.dev/icons?i=tailwind" width="45"><br>Tailwind CSS | | | <img src="https://skillicons.dev/icons?i=vscode" width="45"><br>VS Code |
+| <img src="https://skillicons.dev/icons?i=css" width="45"><br>CSS3 | | | | <img src="https://skillicons.dev/icons?i=vercel" width="45"><br>Vercel |
 ---
 
 # 🚀 Featured Projects
 
 ## 🤖 Smart Code Analyzer
 
-### AI-powered code review platform
+> AI-powered code analysis platform
 
-✔ AI-based algorithm analysis
+### Features
 
-✔ Time & Space Complexity Evaluation
+- ✅ AI-based Code Review
+- ✅ Time Complexity Analysis
+- ✅ Space Complexity Analysis
+- ✅ Monaco Code Editor
+- ✅ Prompt Engineering
+- ✅ MongoDB History
 
-✔ Monaco Code Editor
+**Tech**
 
-✔ LLM Prompt Engineering
-
-✔ MongoDB Session History
-
-**Tech Stack**
-
-React • Node.js • Express • MongoDB • LLM API
-
-🔗 Repository:
-https://github.com/YOUR_GITHUB_USERNAME/SMART-CODE-ANALYZER
+React • Node • Express • MongoDB • LLM API
 
 ---
 
-## 📋 TaskFlow — SaaS Project Management Platform
+## 📋 TaskFlow SaaS Platform
 
-### Complete Team Collaboration Platform
+Subscription-based Project Management Platform
 
-✔ JWT Authentication
+### Features
 
-✔ Google & GitHub OAuth
+- 🔐 JWT Authentication
 
-✔ Stripe Subscription System
+- 🌐 Google OAuth
 
-✔ Real-time Collaboration
+- 💳 Stripe Subscription
 
-✔ Team Analytics Dashboard
+- 📂 Team Management
 
-✔ Socket.io Integration
+- 📈 Analytics Dashboard
 
-**Tech Stack**
+- ⚡ Socket.io Realtime
 
-React • Node.js • Express • MongoDB • Stripe • Socket.io
+**Tech**
 
-🔗 Repository:
-https://github.com/YOUR_GITHUB_USERNAME/TASKFLOW
+React • Node • Express • MongoDB • Stripe • Socket.io
+
+---
+
+# 📚 Currently Learning
+
+- System Design
+- Next.js
+- CI/CD 
+- AI Integration
+- Cloud Deployment
+- DSA in Java
+
+---
+
+# 🎯 Goals for 2026
+
+- ✅ Master Full Stack Development
+- ✅ Build AI SaaS Products
+- ✅ Contribute to Open Source
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="https://linkedin.com/in/shaikhaamir642">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 <a href="mailto:shaikhaamir27765@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+<img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
 <a href="https://github.com/shaikhaamir642">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
+<img src="https://skillicons.dev/icons?i=github" />
 </a>
 
 </p>
 
 ---
 
-# 💡 Quote
+# 💭 Quote
 
-> "First, solve the problem. Then, write the code."
+> **"Great software is built by continuously learning, improving, and solving meaningful problems."**
 
----
+<div align="center">
 
-<p align="center">
-⭐ Thanks for visiting my profile! If you like my work, consider giving a star to my repositories.
-</p>
+### ⭐ Thanks for visiting my profile!
+
+</div>
