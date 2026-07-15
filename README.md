@@ -12,8 +12,6 @@
 
 # 🚀 About Me
 
-<img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
-
 - 🎓 B.Tech in Computer Science Engineering (2022–2026)
 - 💼 Passionate about Full Stack Development & AI
 - 🌱 Learning System Design, Next.js and Cloud
