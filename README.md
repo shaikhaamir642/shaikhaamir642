@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Java+Developer;AI+Enthusiast;Building+Scalable+Applications;Always+Learning+New+Technologies"/>
 
-### 💻 Full Stack Developer | Java | AI | Open Source
+### 💻 Full Stack Developer | Java | AI |
 
 </div>
 
@@ -14,9 +14,9 @@
 
 - 🎓 B.Tech in Computer Science Engineering (2022–2026)
 - 💼 Passionate about Full Stack Development & AI
-- 🌱 Learning System Design, Next.js and Cloud
+- 🌱 Learning  Next.js and Cloud
 - ⚡ Strong in Java, MERN Stack & REST APIs
-- 🎯 Goal: Become a Software Engineer at a top product company
+- 🎯 Goal: Become a Software Engineer 
 - 💡 Love building real-world scalable applications
 
 ---
