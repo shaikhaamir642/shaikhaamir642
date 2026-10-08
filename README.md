@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Shaikh Aamir
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Java+Developer;AI+Enthusiast;Building+Scalable+Applications;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI+Enthusiast;Building+Scalable+Applications;Always+Learning+New+Technologies"/>
 
 ### 💻 Full Stack Developer | Java | AI |
 
